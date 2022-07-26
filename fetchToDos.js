@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+//Full code from further week to save time
 function wait(ms) {
     return new Promise(function (resolve)
      {setTimeout(function () 
