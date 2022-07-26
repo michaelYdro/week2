@@ -1,0 +1,9 @@
+{
+"name": "week-two",
+"version": "1.0.0",
+"bin":{
+"addisAwesome": "./addisAwesome.js",
+"fetchtoDos": "./fetchtoDos.js",
+}
+
+}
